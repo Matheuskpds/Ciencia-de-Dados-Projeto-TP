@@ -1,2 +1,5 @@
 dados/*
 !dados/.gitkeep
+cache_geolocal.pkl
+indice.pkl
+*.pkl
