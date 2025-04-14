@@ -17,11 +17,12 @@ Arthur Teodoro Borges - 4672
    Houve aumento significativo de criminalidade durante eventos específicos (festivais, feriados, etc.)?
 
 ### 🗺️ Análise Geográfica
-2. **Cidades pequenas com alta criminalidade**  
-   Quais municípios com menos de 50k habitantes possuem média de crimes acima da média estadual?
+2. **Municípios com alta criminalidade**  
+   Quais são os 10 municípios com as maiores taxas de crimes violentos?
+   (Qualquer crime que afeta a integridade física da vítima)
 
-3. **Focos de violência em pequenos municípios**  
-   Quais cidades pequenas apresentam média de crimes violentos acima do padrão estadual?
+3. **Localização dos crimes**  
+   Há correlação entre a localização de crimes e os bairros?
 
 ### 🕵️ Eficiência Policial
 4. **Naturezas com maior solução**  
