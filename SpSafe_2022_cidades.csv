@@ -1,0 +1,621 @@
+CIDADE,QUANTIDADE_CRIMES,QUANTIDADE_POPULACAO,CRIMES_POR_100K,IDMH,cod_ibge,cod_ra,reg_administrativa,reg_metropolitanas,ideb2019
+São Paulo,251285,11429865,2198.0,0.8,3550308,681,RM  de São Paulo,RM de Sao Paulo,4.1
+Santo André,16033,752784,2130.0,0.81,3547809,681,RM  de São Paulo,RM de Sao Paulo,4.5
+Campinas,13731,1140133,1204.0,0.8,3509502,686,RA de Campinas,RM de Campinas,4.4
+Guarulhos,12815,1293335,991.0,0.76,3518800,681,RM  de São Paulo,RM de Sao Paulo,4.2
+São Bernardo do Campo,11086,811198,1367.0,0.8,3548708,681,RM  de São Paulo,RM de Sao Paulo,4.4
+Osasco,9412,731127,1287.0,0.77,3534401,681,RM  de São Paulo,RM de Sao Paulo,4.1
+Diadema,6548,392224,1669.0,0.75,3513801,681,RM  de São Paulo,RM de Sao Paulo,4.4
+Ribeirão Preto,5757,704874,817.0,0.8,3543402,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.1
+Mauá,5529,417046,1326.0,0.76,3529401,681,RM  de São Paulo,RM de Sao Paulo,4.3
+Sorocaba,4317,733301,589.0,0.79,3552205,685,RA de Sorocaba,RM de Sorocaba,4.6
+Itaquaquecetuba,4176,372001,1123.0,0.71,3523107,681,RM  de São Paulo,RM de Sao Paulo,3.9
+Praia Grande,3966,356054,1114.0,0.75,3541000,683,RA de Santos,RM da Baixada Santista,4.5
+São José dos Campos,3961,700311,566.0,0.8,3549904,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.5
+Santos,3923,417795,939.0,0.84,3548500,683,RA de Santos,RM da Baixada Santista,4.8
+Carapicuíba,3885,386618,1005.0,0.74,3510609,681,RM  de São Paulo,RM de Sao Paulo,4.1
+Suzano,3506,310255,1130.0,0.76,3552502,681,RM  de São Paulo,RM de Sao Paulo,4.2
+São José do Rio Preto,3314,485356,683.0,0.79,3549805,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.6
+São Vicente,3226,328574,982.0,0.76,3551009,683,RA de Santos,RM da Baixada Santista,4.3
+Mogi das Cruzes,3136,455116,689.0,0.78,3530607,681,RM  de São Paulo,RM de Sao Paulo,4.3
+Jundiaí,2967,448074,662.0,0.82,3525904,686,RA de Campinas,RM de Jundiai,4.9
+Guarujá,2802,286515,978.0,0.75,3518701,683,RA de Santos,RM da Baixada Santista,4.1
+Limeira,2797,292634,956.0,0.77,3526902,686,RA de Campinas,RM de Piracicaba,4.8
+Sumaré,2653,281703,942.0,0.76,3552403,686,RA de Campinas,RM de Campinas,4.7
+Taboão da Serra,2346,274537,855.0,0.76,3552809,681,RM  de São Paulo,RM de Sao Paulo,4.5
+Cotia,2224,279346,796.0,0.78,3513009,681,RM  de São Paulo,RM de Sao Paulo,4.3
+Americana,2141,238829,896.0,0.81,3501608,686,RA de Campinas,RM de Campinas,4.9
+Ferraz de Vasconcelos,2040,179442,1137.0,0.73,3515707,681,RM  de São Paulo,RM de Sao Paulo,4.1
+Barueri,2017,321672,627.0,0.78,3505708,681,RM  de São Paulo,RM de Sao Paulo,4.9
+Bauru,2008,381196,527.0,0.8,3506003,688,RA de Bauru,Demais municípios,4.2
+Franca,1940,354489,547.0,0.78,3516200,695,RA de Franca,Demais municípios,4.5
+Itapecerica da Serra,1889,158321,1193.0,0.74,3522208,681,RM  de São Paulo,RM de Sao Paulo,4.6
+São Carlos,1776,256743,692.0,0.8,3548906,693,RA Central,Demais municípios,4.8
+São Caetano do Sul,1724,166398,1036.0,0.86,3548807,681,RM  de São Paulo,RM de Sao Paulo,5.1
+Hortolândia,1710,239765,713.0,0.75,3519071,686,RA de Campinas,RM de Campinas,4.7
+Taubaté,1698,312416,544.0,0.8,3554102,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.9
+Embu das Artes,1596,250540,637.0,0.73,3515004,681,RM  de São Paulo,RM de Sao Paulo,4.2
+Rio Claro,1589,202177,786.0,0.8,3543907,686,RA de Campinas,RM de Piracicaba,4.9
+Piracicaba,1478,427094,346.0,0.78,3538709,686,RA de Campinas,RM de Piracicaba,4.8
+Itanhaém,1399,114186,1225.0,0.74,3522109,683,RA de Santos,RM da Baixada Santista,4.2
+Itapevi,1332,234026,569.0,0.73,3522505,681,RM  de São Paulo,RM de Sao Paulo,4.0
+Poá,1261,103206,1222.0,0.77,3539806,681,RM  de São Paulo,RM de Sao Paulo,4.5
+Jacareí,1187,241952,491.0,0.77,3524402,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.5
+Barretos,967,123162,785.0,0.78,3505500,694,RA de Barretos,Demais municípios,4.7
+Cubatão,917,111549,822.0,0.73,3513504,683,RA de Santos,RM da Baixada Santista,4.7
+Araraquara,909,244361,372.0,0.81,3503208,693,RA Central,Demais municípios,4.7
+Araçatuba,897,201053,446.0,0.78,3502804,690,RA de Araçatuba,Demais municípios,4.6
+Franco da Rocha,883,145574,607.0,0.73,3516408,681,RM  de São Paulo,RM de Sao Paulo,4.3
+Mogi Guaçu,860,154517,557.0,0.77,3530706,686,RA de Campinas,Demais municípios,4.8
+Mongaguá,858,63016,1362.0,0.75,3531100,683,RA de Santos,RM da Baixada Santista,4.2
+Francisco Morato,840,165435,508.0,0.7,3516309,681,RM  de São Paulo,RM de Sao Paulo,4.1
+Marília,831,238602,348.0,0.79,3529005,692,RA de Marília,Demais municípios,4.5
+Ribeirão Pires,824,115392,714.0,0.78,3543303,681,RM  de São Paulo,RM de Sao Paulo,4.8
+Lins,819,74858,1094.0,0.78,3527108,688,RA de Bauru,Demais municípios,4.0
+Presidente Prudente,770,226422,340.0,0.8,3541406,691,RA de Presidente Prudente,Demais municípios,4.4
+Cajamar,761,94792,803.0,0.72,3509205,681,RM  de São Paulo,RM de Sao Paulo,4.5
+Indaiatuba,753,259661,290.0,0.78,3520509,686,RA de Campinas,RM de Campinas,4.7
+Araras,716,131466,545.0,0.78,3503307,686,RA de Campinas,RM de Piracicaba,4.8
+Pindamonhangaba,660,166656,396.0,0.77,3538006,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.7
+Peruíbe,650,68851,944.0,0.74,3537602,683,RA de Santos,RM da Baixada Santista,4.3
+Caraguatatuba,634,137297,462.0,0.75,3510500,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.8
+Paulínia,629,112548,559.0,0.79,3536505,686,RA de Campinas,RM de Campinas,4.6
+Atibaia,625,160959,388.0,0.76,3504107,686,RA de Campinas,Demais municípios,4.6
+Arujá,615,87470,703.0,0.78,3503901,681,RM  de São Paulo,RM de Sao Paulo,4.3
+Birigui,599,119496,501.0,0.78,3506508,690,RA de Araçatuba,Demais municípios,4.8
+Jandira,587,118391,496.0,0.76,3525003,681,RM  de São Paulo,RM de Sao Paulo,4.5
+Campo Limpo Paulista,582,77665,749.0,0.76,3509601,686,RA de Campinas,RM de Jundiai,4.6
+Bragança Paulista,576,178980,322.0,0.77,3507605,686,RA de Campinas,Demais municípios,4.6
+Mairiporã,558,94534,590.0,0.78,3528502,681,RM  de São Paulo,RM de Sao Paulo,4.4
+Jaguariúna,543,60420,899.0,0.78,3524709,686,RA de Campinas,RM de Campinas,4.9
+Ubatuba,539,94009,573.0,0.75,3555406,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.4
+Várzea Paulista,526,116105,453.0,0.75,3556503,686,RA de Campinas,RM de Jundiai,4.5
+Caieiras,509,95414,533.0,0.78,3509007,681,RM  de São Paulo,RM de Sao Paulo,4.6
+Moji Mirim,504,92791,543.0,0.78,3530805,686,RA de Campinas,Demais municípios,4.8
+Caçapava,496,96808,512.0,0.78,3508504,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.8
+Itatiba,484,122969,394.0,0.77,3523404,686,RA de Campinas,RM de Campinas,5.2
+Catanduva,472,115807,408.0,0.78,3511102,689,RA de São José do Rio Preto,Demais municípios,5.2
+Itu,472,168918,279.0,0.77,3523909,685,RA de Sorocaba,RM de Sorocaba,4.6
+Bertioga,465,65374,711.0,0.73,3506359,683,RA de Santos,RM da Baixada Santista,4.2
+Jaboticabal,453,71689,632.0,0.77,3524303,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.4
+Botucatu,443,146232,303.0,0.8,3507506,685,RA de Sorocaba,Demais municípios,4.1
+Sertãozinho,442,127904,346.0,0.76,3551702,687,RA de Ribeirão Preto,RM de Ribeirao Preto,5.2
+Valinhos,433,127691,339.0,0.81,3556206,686,RA de Campinas,RM de Campinas,4.9
+Jaú,427,133548,320.0,0.77,3525300,688,RA de Bauru,Demais municípios,5.0
+Itapetininga,414,158556,261.0,0.76,3522307,685,RA de Sorocaba,RM de Sorocaba,4.7
+Matão,412,79018,521.0,0.77,3529302,693,RA Central,Demais municípios,4.9
+Santana de Parnaíba,407,157395,259.0,0.81,3547304,681,RM  de São Paulo,RM de Sao Paulo,4.6
+Guaratinguetá,405,118349,342.0,0.79,3518404,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.5
+Itapira,403,72187,558.0,0.76,3522604,686,RA de Campinas,Demais municípios,4.7
+Tatuí,397,125110,317.0,0.75,3554003,685,RA de Sorocaba,RM de Sorocaba,4.5
+Votorantim,382,129255,296.0,0.76,3557006,685,RA de Sorocaba,RM de Sorocaba,4.7
+Bebedouro,381,76339,499.0,0.78,3506102,694,RA de Barretos,Demais municípios,4.7
+Leme,376,98373,382.0,0.74,3526704,686,RA de Campinas,RM de Piracicaba,4.6
+Embu-Guaçu,354,66979,529.0,0.74,3515103,681,RM  de São Paulo,RM de Sao Paulo,4.5
+São Sebastião,348,81958,425.0,0.77,3550704,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.7
+Boituva,339,62054,546.0,0.78,3507001,685,RA de Sorocaba,RM de Sorocaba,4.3
+Cruzeiro,333,74529,447.0,0.78,3513405,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.6
+Ibiúna,329,75753,434.0,0.71,3519709,685,RA de Sorocaba,RM de Sorocaba,4.6
+Ourinhos,325,103680,313.0,0.77,3534708,692,RA de Marília,Demais municípios,4.7
+Pirassununga,324,73665,440.0,0.8,3539301,686,RA de Campinas,RM de Piracicaba,4.7
+Salto,323,136375,237.0,0.78,3545209,685,RA de Sorocaba,RM de Sorocaba,4.8
+São Roque,322,79332,406.0,0.76,3550605,685,RA de Sorocaba,RM de Sorocaba,5.0
+Assis,309,101665,304.0,0.8,3504008,692,RA de Marília,Demais municípios,4.9
+Lorena,300,84830,354.0,0.76,3527207,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.2
+Cosmópolis,284,59707,476.0,0.76,3512803,686,RA de Campinas,RM de Campinas,5.4
+Ibitinga,277,60442,458.0,0.74,3519600,693,RA Central,Demais municípios,4.9
+Monte Mor,265,65713,403.0,0.73,3531803,686,RA de Campinas,RM de Campinas,4.7
+Itupeva,261,72596,360.0,0.76,3524006,686,RA de Campinas,RM de Jundiai,4.5
+Itapeva,252,89670,281.0,0.73,3522406,696,RA de Itapeva,Demais municípios,5.0
+Votuporanga,250,97487,256.0,0.79,3557105,689,RA de São José do Rio Preto,Demais municípios,5.0
+Vargem Grande Paulista,247,50875,486.0,0.77,3556453,681,RM  de São Paulo,RM de Sao Paulo,4.6
+Vinhedo,237,77402,306.0,0.81,3556701,686,RA de Campinas,RM de Campinas,4.9
+Mococa,232,67609,343.0,0.76,3530508,686,RA de Campinas,RM de Ribeirao Preto,4.4
+Registro,232,60211,385.0,0.75,3542602,682,RA de Registro,Demais municípios,5.0
+Avaré,232,93319,249.0,0.76,3504503,685,RA de Sorocaba,Demais municípios,4.6
+Artur Nogueira,229,51964,441.0,0.74,3503802,686,RA de Campinas,RM de Campinas,4.6
+Guariba,225,37516,600.0,0.71,3518602,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.7
+Jarinu,218,38541,566.0,0.73,3525201,686,RA de Campinas,RM de Jundiai,4.7
+Nova Odessa,213,62711,340.0,0.79,3533403,686,RA de Campinas,RM de Campinas,4.9
+Campos do Jordão,212,46787,453.0,0.74,3509700,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.8
+Miracatu,205,18330,1118.0,0.69,3529906,682,RA de Registro,Demais municípios,4.6
+Andradina,201,60012,335.0,0.77,3502101,690,RA de Araçatuba,Demais municípios,4.6
+Louveira,199,52901,376.0,0.77,3527306,686,RA de Campinas,RM de Jundiai,4.9
+Jardinópolis,195,45773,426.0,0.73,3525102,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.2
+Jales,191,48835,391.0,0.77,3524808,689,RA de São José do Rio Preto,Demais municípios,5.0
+Fernandópolis,190,71620,265.0,0.79,3515509,689,RA de São José do Rio Preto,Demais municípios,4.9
+Penápolis,188,61805,304.0,0.75,3537305,690,RA de Araçatuba,Demais municípios,4.6
+Porto Ferreira,187,52584,356.0,0.75,3540705,693,RA Central,Demais municípios,4.3
+Guararema,186,31576,589.0,0.73,3518305,681,RM  de São Paulo,RM de Sao Paulo,4.3
+São João da Boa Vista,180,93161,193.0,0.79,3549102,686,RA de Campinas,Demais municípios,4.6
+Juquitiba,179,27189,658.0,0.7,3526209,681,RM  de São Paulo,RM de Sao Paulo,4.7
+Serrana,177,44258,400.0,0.72,3551504,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.0
+Aparecida,173,32272,536.0,0.75,3502507,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.7
+Araçariguama,172,21856,787.0,0.7,3502754,685,RA de Sorocaba,RM de Sorocaba,4.6
+Garça,169,41973,403.0,0.76,3516705,692,RA de Marília,Demais municípios,4.3
+Porto Feliz,167,56952,293.0,0.75,3540606,685,RA de Sorocaba,RM de Sorocaba,4.4
+Tietê,163,23025,708.0,0.77,3554508,685,RA de Sorocaba,RM de Sorocaba,4.9
+Cabreúva,163,47414,344.0,0.73,3508405,686,RA de Campinas,RM de Jundiai,4.9
+Taquaritinga,162,51984,312.0,0.74,3553708,693,RA Central,Demais municípios,4.5
+Amparo,154,68015,226.0,0.78,3501905,686,RA de Campinas,Demais municípios,5.3
+Araçoiaba da Serra,154,32826,469.0,0.77,3502903,685,RA de Sorocaba,RM de Sorocaba,4.3
+Mairinque,153,50394,304.0,0.74,3528403,685,RA de Sorocaba,RM de Sorocaba,5.0
+Olímpia,152,55405,274.0,0.77,3533908,694,RA de Barretos,RM São José do Rio Preto,4.8
+Mirassol,150,64011,234.0,0.76,3530300,689,RA de São José do Rio Preto,RM São José do Rio Preto,5.0
+Pedreira,149,43194,345.0,0.76,3537107,686,RA de Campinas,RM de Campinas,4.3
+Rio Grande da Serra,147,44032,334.0,0.74,3544103,681,RM  de São Paulo,RM de Sao Paulo,4.4
+Miguelópolis,145,19292,752.0,0.74,3529708,695,RA de Franca,Demais municípios,4.5
+Vargem Grande do Sul,145,40129,361.0,0.73,3556404,686,RA de Campinas,Demais municípios,4.6
+Itápolis,140,39355,356.0,0.74,3522703,693,RA Central,Demais municípios,4.7
+São Joaquim da Barra,140,48674,288.0,0.76,3549409,695,RA de Franca,Demais municípios,4.4
+Salto de Pirapora,139,43969,316.0,0.72,3545308,685,RA de Sorocaba,RM de Sorocaba,4.5
+Tupã,134,63841,210.0,0.77,3555000,692,RA de Marília,Demais municípios,4.5
+Itararé,133,3549,3748.0,0.7,3523206,696,RA de Itapeva,Demais municípios,4.8
+Capão Bonito,133,46264,287.0,0.72,3510203,696,RA de Itapeva,Demais municípios,4.7
+Batatais,131,58450,224.0,0.76,3505906,695,RA de Franca,RM de Ribeirao Preto,4.6
+Pederneiras,129,45053,286.0,0.73,3536703,688,RA de Bauru,Demais municípios,4.1
+Monte Alto,128,47528,269.0,0.76,3531308,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.8
+Orlândia,126,38076,331.0,0.78,3534302,695,RA de Franca,RM de Ribeirao Preto,4.8
+Promissão,124,34971,355.0,0.74,3541604,688,RA de Bauru,Demais municípios,3.7
+São Lourenço da Serra,124,16185,766.0,0.72,3549953,681,RM  de São Paulo,RM de Sao Paulo,4.8
+Conchal,121,28242,428.0,0.7,3512209,686,RA de Campinas,RM de Piracicaba,4.9
+Novo Horizonte,120,38391,313.0,0.75,3533502,689,RA de São José do Rio Preto,Demais municípios,4.9
+Presidente Epitácio,119,39223,303.0,0.75,3541307,691,RA de Presidente Prudente,Demais municípios,4.4
+São Pedro,118,2774,4254.0,0.75,3550407,686,RA de Campinas,RM de Piracicaba,5.0
+Capivari,117,50100,234.0,0.75,3510401,686,RA de Campinas,RM de Piracicaba,5.1
+Ilhabela,115,35371,325.0,0.75,3520400,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.4
+Ituverava,113,37426,302.0,0.76,3524105,695,RA de Franca,Demais municípios,4.7
+Cravinhos,110,33273,331.0,0.75,3513108,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.2
+Juquiá,107,16954,631.0,0.7,3526100,682,RA de Registro,Demais municípios,4.2
+São José do Rio Pardo,101,52104,194.0,0.77,3549706,686,RA de Campinas,Demais municípios,4.5
+Descalvado,100,31782,315.0,0.76,3513702,693,RA Central,Demais municípios,4.8
+Dracena,100,45569,219.0,0.77,3514403,691,RA de Presidente Prudente,Demais municípios,4.7
+Cordeirópolis,100,24768,404.0,0.75,3512407,686,RA de Campinas,RM de Piracicaba,4.3
+Lençóis Paulista,100,66829,150.0,0.76,3526803,688,RA de Bauru,Demais municípios,4.9
+Guaíra,98,39380,249.0,0.75,3517406,694,RA de Barretos,Demais municípios,4.9
+Espírito Santo do Pinhal,96,39582,243.0,0.78,3515186,686,RA de Campinas,Demais municípios,4.8
+Pontal,95,37323,255.0,0.72,3540200,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.5
+Iguape,94,29043,324.0,0.72,3520301,682,RA de Registro,Demais municípios,4.8
+Cajati,93,28495,326.0,0.69,3509254,682,RA de Registro,Demais municípios,4.5
+São Manuel,90,37153,242.0,0.74,3550100,685,RA de Sorocaba,Demais municípios,4.5
+Tremembé,89,51803,172.0,0.78,3554805,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.4
+Santa Bárbara d'Oeste,89,183284,49.0,0.78,3545803,686,RA de Campinas,RM de Campinas,4.8
+Ibaté,89,32205,276.0,0.7,3519303,693,RA Central,Demais municípios,4.7
+Piedade,88,52905,166.0,0.71,3537800,685,RA de Sorocaba,RM de Sorocaba,4.8
+Barrinha,85,32270,263.0,0.72,3505609,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.5
+Agudos,85,37839,225.0,0.74,3500709,688,RA de Bauru,Demais municípios,4.5
+Santa Rita do Passa Quatro,84,24668,341.0,0.77,3547502,693,RA Central,RM de Ribeirao Preto,4.4
+Morro Agudo,83,27796,299.0,0.71,3531902,695,RA de Franca,RM de Ribeirao Preto,4.6
+Socorro,83,40254,206.0,0.72,3552106,686,RA de Campinas,Demais municípios,4.9
+Igarapava,83,26019,319.0,0.76,3520103,695,RA de Franca,Demais municípios,4.1
+Cachoeira Paulista,79,31604,250.0,0.76,3508603,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.6
+Paraguaçu Paulista,79,40894,193.0,0.76,3535507,692,RA de Marília,Demais municípios,4.8
+José Bonifácio,77,36889,209.0,0.77,3525706,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.3
+Bom Jesus dos Perdões,77,22168,347.0,0.71,3507100,686,RA de Campinas,Demais municípios,4.2
+Nazaré Paulista,76,18305,415.0,0.67,3532405,686,RA de Campinas,Demais municípios,4.3
+Cerquilho,76,44954,169.0,0.78,3511508,685,RA de Sorocaba,RM de Sorocaba,4.7
+Casa Branca,75,28028,268.0,0.73,3510807,686,RA de Campinas,Demais municípios,4.2
+Dois Córregos,75,24434,307.0,0.72,3514106,688,RA de Bauru,Demais municípios,4.0
+Pitangueiras,74,33478,221.0,0.72,3539509,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.5
+Cândido Mota,74,29339,252.0,0.74,3510005,692,RA de Marília,Demais municípios,4.3
+Cajuru,73,23795,307.0,0.71,3509403,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.0
+Piraju,73,29383,248.0,0.75,3538808,696,RA de Itapeva,Demais municípios,5.0
+Ilha Solteira,72,25498,282.0,0.81,3520442,690,RA de Araçatuba,Demais municípios,5.0
+Rio das Pedras,71,31419,226.0,0.75,3544004,686,RA de Campinas,RM de Piracicaba,4.7
+São Miguel Arcanjo,70,32031,219.0,0.71,3550209,685,RA de Sorocaba,RM de Sorocaba,4.3
+Iperó,69,37032,186.0,0.71,3521002,685,RA de Sorocaba,RM de Sorocaba,4.2
+Monte Aprazível,67,22328,300.0,0.78,3531407,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.3
+Guapiaçu,67,21976,305.0,0.72,3517505,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.8
+Bariri,65,31570,206.0,0.75,3505203,688,RA de Bauru,Demais municípios,4.8
+Piracaia,64,26070,245.0,0.73,3538600,686,RA de Campinas,Demais municípios,4.6
+Iracemápolis,64,22070,290.0,0.77,3521408,686,RA de Campinas,RM de Piracicaba,4.9
+Itaí,64,25226,254.0,0.71,3521804,696,RA de Itapeva,Demais municípios,4.5
+Potirendaba,63,18720,337.0,0.74,3540804,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.8
+Taquarituba,62,24452,254.0,0.7,3553807,696,RA de Itapeva,Demais municípios,5.0
+Américo Brasiliense,62,32753,189.0,0.75,3501707,693,RA Central,Demais municípios,4.5
+Tanabi,62,25349,245.0,0.74,3553401,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.9
+Alumínio,62,17277,359.0,0.76,3501152,685,RA de Sorocaba,RM de Sorocaba,5.0
+Aguaí,62,32025,194.0,0.71,3500303,686,RA de Campinas,Demais municípios,4.7
+Colina,61,18553,329.0,0.75,3512001,694,RA de Barretos,Demais municípios,4.4
+Pilar do Sul,60,27616,217.0,0.69,3537909,685,RA de Sorocaba,RM de Sorocaba,5.1
+Brotas,60,24033,250.0,0.74,3507902,686,RA de Campinas,Demais municípios,4.4
+Pradópolis,59,16992,347.0,0.73,3540903,687,RA de Ribeirão Preto,RM de Ribeirao Preto,5.2
+Guará,58,18441,315.0,0.71,3517703,695,RA de Franca,Demais municípios,4.1
+Teodoro Sampaio,57,22114,258.0,0.74,3554300,691,RA de Presidente Prudente,Demais municípios,4.9
+Igaraçu do Tietê,57,23025,248.0,0.72,3520004,688,RA de Bauru,Demais municípios,4.1
+Serra Negra,56,30031,186.0,0.76,3551603,686,RA de Campinas,Demais municípios,4.5
+Brodowski,55,25458,216.0,0.75,3507803,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.1
+Tambaú,54,21331,253.0,0.73,3553302,686,RA de Campinas,RM de Ribeirao Preto,4.3
+Ilha Comprida,53,13733,386.0,0.72,3520426,682,RA de Registro,Demais municípios,4.9
+Patrocínio Paulista,53,14584,363.0,0.73,3536307,695,RA de Franca,Demais municípios,4.3
+Viradouro,52,17395,299.0,0.73,3556800,694,RA de Barretos,Demais municípios,4.3
+Palmital,52,19438,268.0,0.74,3535309,692,RA de Marília,Demais municípios,4.3
+Adamantina,52,34706,150.0,0.79,3500105,691,RA de Presidente Prudente,Demais municípios,4.9
+Estiva Gerbi,52,11359,458.0,0.74,3557303,686,RA de Campinas,Demais municípios,0.0
+Rancharia,52,28496,182.0,0.75,3542206,691,RA de Presidente Prudente,Demais municípios,4.7
+Buritama,52,17311,300.0,0.76,3508108,690,RA de Araçatuba,Demais municípios,4.8
+Barra Bonita,51,34183,149.0,0.78,3505302,688,RA de Bauru,Demais municípios,5.4
+Igaratá,51,10721,476.0,0.71,3520202,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.0
+Angatuba,51,24113,212.0,0.71,3502200,696,RA de Itapeva,Demais municípios,5.1
+Biritiba Mirim,50,29689,168.0,0.71,3506607,681,RM  de São Paulo,RM de Sao Paulo,4.3
+Tabapuã,49,11302,434.0,0.73,3552601,689,RA de São José do Rio Preto,Demais municípios,4.7
+Guararapes,48,30926,155.0,0.76,3518206,690,RA de Araçatuba,Demais municípios,4.9
+Macatuba,48,16808,286.0,0.77,3528007,688,RA de Bauru,Demais municípios,5.1
+Cesário Lange,47,19306,243.0,0.7,3511607,685,RA de Sorocaba,RM de Sorocaba,4.1
+Presidente Venceslau,47,34834,135.0,0.76,3541505,691,RA de Presidente Prudente,Demais municípios,4.9
+Itariri,46,15501,297.0,0.67,3523305,682,RA de Registro,Demais municípios,4.2
+Itirapina,44,16187,272.0,0.72,3523602,686,RA de Campinas,Demais municípios,4.9
+Guaiçara,44,11262,391.0,0.73,3517208,688,RA de Bauru,Demais municípios,4.2
+Holambra,44,15389,286.0,0.79,3519055,686,RA de Campinas,RM de Campinas,4.7
+Pereira Barreto,43,23953,180.0,0.76,3537404,690,RA de Araçatuba,Demais municípios,4.9
+Vargem,42,10621,395.0,0.69,3556354,686,RA de Campinas,Demais municípios,0.0
+Nova Granada,42,19401,216.0,0.73,3533007,689,RA de São José do Rio Preto,RM São José do Rio Preto,3.8
+Pirapora do Bom Jesus,41,18549,221.0,0.72,3539103,681,RM  de São Paulo,RM de Sao Paulo,4.0
+Valparaíso,41,24284,169.0,0.72,3556305,690,RA de Araçatuba,Demais municípios,4.4
+Castilho,41,20080,204.0,0.73,3511003,690,RA de Araçatuba,Demais municípios,4.6
+Engenheiro Coelho,40,19858,201.0,0.73,3515152,686,RA de Campinas,RM de Campinas,4.2
+Morungaba,40,13897,288.0,0.71,3532009,686,RA de Campinas,RM de Campinas,4.2
+Cerqueira César,40,21732,184.0,0.72,3511409,685,RA de Sorocaba,Demais municípios,4.4
+Buri,40,20336,197.0,0.66,3508009,696,RA de Itapeva,Demais municípios,4.5
+Mirandópolis,39,27927,140.0,0.75,3530102,690,RA de Araçatuba,Demais municípios,4.6
+Pirapozinho,39,25302,154.0,0.77,3539202,691,RA de Presidente Prudente,Demais municípios,4.9
+Ipuã,38,14445,263.0,0.74,3521309,695,RA de Franca,Demais municípios,4.2
+Capela do Alto,38,23248,163.0,0.69,3510302,685,RA de Sorocaba,RM de Sorocaba,4.5
+Paraibuna,38,17666,215.0,0.71,3535606,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.6
+Águas de Lindóia,37,17937,206.0,0.74,3500501,686,RA de Campinas,Demais municípios,5.0
+São Simão,37,13313,278.0,0.76,3550902,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.9
+Fartura,37,16682,222.0,0.73,3515400,696,RA de Itapeva,Demais municípios,5.3
+Pariquera-Açu,37,19252,192.0,0.73,3536208,682,RA de Registro,Demais municípios,4.3
+Avanhandava,37,11222,330.0,0.7,3504404,690,RA de Araçatuba,Demais municípios,4.5
+Piratininga,36,15328,235.0,0.77,3539400,688,RA de Bauru,Demais municípios,3.9
+Guapiara,36,16927,213.0,0.67,3517604,696,RA de Itapeva,Demais municípios,4.4
+Elias Fausto,36,17817,202.0,0.69,3514908,686,RA de Campinas,RM de Piracicaba,4.6
+Porangaba,36,10588,340.0,0.7,3540507,685,RA de Sorocaba,Demais municípios,4.7
+Conchas,35,15105,232.0,0.73,3512308,685,RA de Sorocaba,Demais municípios,4.2
+Cafelândia,35,16614,211.0,0.74,3508801,688,RA de Bauru,Demais municípios,4.2
+Restinga,35,6355,551.0,0.7,3542701,695,RA de Franca,Demais municípios,3.5
+Lucélia,35,20003,175.0,0.75,3527405,691,RA de Presidente Prudente,Demais municípios,4.5
+Bady Bassitt,35,28264,124.0,0.74,3504602,689,RA de São José do Rio Preto,RM São José do Rio Preto,0.0
+Bálsamo,34,9716,350.0,0.75,3504800,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.9
+Mirante do Paranapanema,34,15781,215.0,0.72,3530201,691,RA de Presidente Prudente,Demais municípios,4.8
+Osvaldo Cruz,34,31243,109.0,0.76,3534609,691,RA de Presidente Prudente,Demais municípios,5.2
+Joanópolis,34,12836,265.0,0.69,3525508,686,RA de Campinas,Demais municípios,4.8
+Pinhalzinho,34,15357,221.0,0.72,3538204,686,RA de Campinas,Demais municípios,4.6
+Glicério,34,4084,833.0,0.73,3517109,690,RA de Araçatuba,Demais municípios,3.9
+Vera Cruz,33,10125,326.0,0.75,3556602,692,RA de Marília,Demais municípios,4.9
+Altinópolis,33,16878,196.0,0.73,3501004,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.3
+Guatapará,33,7327,450.0,0.74,3518859,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.1
+Cristais Paulista,33,9365,352.0,0.73,3513207,695,RA de Franca,Demais municípios,4.7
+Pedro de Toledo,32,11340,282.0,0.69,3537206,682,RA de Registro,Demais municípios,4.5
+Itapuí,32,13786,232.0,0.72,3522901,688,RA de Bauru,Demais municípios,4.2
+Cedral,32,12977,247.0,0.76,3511300,689,RA de São José do Rio Preto,RM São José do Rio Preto,5.2
+Jacupiranga,32,15944,201.0,0.71,3524600,682,RA de Registro,Demais municípios,4.4
+Panorama,31,14918,208.0,0.72,3535408,691,RA de Presidente Prudente,Demais municípios,4.6
+Iacanga,31,10463,296.0,0.74,3519105,688,RA de Bauru,Demais municípios,0.0
+Sales Oliveira,31,11460,271.0,0.77,3544905,695,RA de Franca,RM de Ribeirao Preto,4.4
+Monte Azul Paulista,30,18050,166.0,0.75,3531506,694,RA de Barretos,Demais municípios,4.4
+Caconde,30,16953,177.0,0.72,3508702,686,RA de Campinas,Demais municípios,4.3
+Boa Esperança do Sul,30,12895,233.0,0.68,3506706,693,RA Central,Demais municípios,3.7
+Laranjal Paulista,30,26310,114.0,0.72,3526407,685,RA de Sorocaba,Demais municípios,4.3
+Pirangi,30,10914,275.0,0.75,3539004,694,RA de Barretos,Demais municípios,0.0
+Rinópolis,30,9197,326.0,0.72,3543808,692,RA de Marília,Demais municípios,4.1
+Gália,30,6305,476.0,0.7,3516606,692,RA de Marília,Demais municípios,0.0
+Arealva,30,8150,368.0,0.74,3503406,688,RA de Bauru,Demais municípios,0.0
+Regente Feijó,30,20225,148.0,0.76,3542404,691,RA de Presidente Prudente,Demais municípios,4.2
+Ipaussu,29,13698,212.0,0.72,3520905,692,RA de Marília,Demais municípios,5.3
+Auriflama,29,13634,213.0,0.77,3504206,690,RA de Araçatuba,Demais municípios,4.6
+Apiaí,29,24477,118.0,0.71,3502705,696,RA de Itapeva,Demais municípios,4.8
+Martinópolis,29,24870,117.0,0.72,3529203,691,RA de Presidente Prudente,Demais municípios,4.9
+Guareí,28,15024,186.0,0.68,3518503,685,RA de Sorocaba,Demais municípios,4.2
+Aramina,27,5450,495.0,0.74,3503000,695,RA de Franca,Demais municípios,0.0
+Ariranha,27,7504,360.0,0.73,3503703,689,RA de São José do Rio Preto,Demais municípios,5.2
+Iacri,27,6101,443.0,0.73,3519204,692,RA de Marília,Demais municípios,4.5
+Colômbia,27,6660,405.0,0.71,3512100,694,RA de Barretos,Demais municípios,4.6
+Pindorama,27,14464,187.0,0.73,3538105,689,RA de São José do Rio Preto,Demais municípios,0.0
+Pompéia,27,20154,134.0,0.78,3540002,692,RA de Marília,Demais municípios,4.3
+Barra do Turvo,26,6784,383.0,0.64,3505401,682,RA de Registro,Demais municípios,4.4
+Estrela d'Oeste,26,9499,274.0,0.76,3515202,689,RA de São José do Rio Preto,Demais municípios,4.8
+Bernardino de Campos,26,11650,223.0,0.73,3506300,692,RA de Marília,Demais municípios,4.8
+Corumbataí,26,4206,618.0,0.75,3512704,686,RA de Campinas,RM de Piracicaba,4.4
+Ribeirão Bonito,26,10852,240.0,0.71,3542909,693,RA Central,Demais municípios,3.9
+Cananéia,26,12240,212.0,0.72,3509908,682,RA de Registro,Demais municípios,3.8
+Nova Europa,26,9269,281.0,0.76,3532900,693,RA Central,Demais municípios,4.6
+Urupês,26,13803,188.0,0.74,3556008,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.7
+Álvares Machado,26,27495,95.0,0.75,3501301,691,RA de Presidente Prudente,Demais municípios,4.4
+Severínia,25,14425,173.0,0.71,3551900,694,RA de Barretos,RM São José do Rio Preto,4.4
+Potim,25,20443,122.0,0.69,3540754,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,0.0
+Taguaí,25,12774,196.0,0.7,3553005,696,RA de Itapeva,Demais municípios,4.8
+Rincão,25,8946,279.0,0.73,3543709,693,RA Central,Demais municípios,3.5
+Ibirá,24,11746,204.0,0.74,3519402,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.0
+Bofete,24,10501,229.0,0.7,3506904,685,RA de Sorocaba,Demais municípios,4.8
+Queluz,24,8964,268.0,0.72,3541901,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,0.0
+Cunha,24,22110,109.0,0.68,3513603,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.4
+Tabatinga,24,14735,163.0,0.7,3552700,693,RA Central,Demais municípios,5.0
+Ipeúna,24,6888,348.0,0.75,3521101,686,RA de Campinas,RM de Piracicaba,4.6
+Águas de Santa Bárbara,24,7275,330.0,0.75,3500550,685,RA de Sorocaba,Demais municípios,0.0
+Borborema,24,14174,169.0,0.73,3507407,693,RA Central,Demais municípios,4.3
+Getulina,24,10157,236.0,0.71,3517000,688,RA de Bauru,Demais municípios,0.0
+Terra Roxa,23,7862,293.0,0.74,3554409,694,RA de Barretos,Demais municípios,4.3
+Bastos,23,21539,107.0,0.75,3505807,692,RA de Marília,Demais municípios,4.6
+Charqueada,23,15535,148.0,0.73,3511706,686,RA de Campinas,RM de Piracicaba,4.5
+Valentim Gentil,23,14307,161.0,0.73,3556107,689,RA de São José do Rio Preto,Demais municípios,4.4
+Urânia,23,8822,261.0,0.74,3555802,689,RA de São José do Rio Preto,Demais municípios,5.2
+Mineiros do Tietê,23,11152,206.0,0.73,3529807,688,RA de Bauru,Demais municípios,0.0
+São Luís do Paraitinga,23,10340,222.0,0.69,3550001,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.9
+Cardoso,22,11297,195.0,0.72,3510708,689,RA de São José do Rio Preto,Demais municípios,0.0
+Dobrada,22,8823,249.0,0.71,3514007,693,RA Central,Demais municípios,4.1
+Saltinho,22,8218,268.0,0.79,3545159,686,RA de Campinas,RM de Piracicaba,0.0
+Pirajuí,22,22333,99.0,0.74,3538907,688,RA de Bauru,Demais municípios,4.8
+Nuporanga,22,7434,296.0,0.74,3533601,695,RA de Franca,RM de Ribeirao Preto,5.1
+Sete Barras,21,12661,166.0,0.67,3551801,682,RA de Registro,Demais municípios,3.9
+Santa Gertrudes,21,23696,89.0,0.73,3546702,686,RA de Campinas,RM de Piracicaba,5.0
+Paraíso,21,6111,344.0,0.74,3535705,689,RA de São José do Rio Preto,Demais municípios,0.0
+Salesópolis,21,15146,139.0,0.73,3545001,681,RM  de São Paulo,RM de Sao Paulo,4.6
+Paranapanema,21,15781,133.0,0.71,3535804,696,RA de Itapeva,Demais municípios,4.5
+Monteiro Lobato,21,4143,507.0,0.71,3531704,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.8
+Nhandeara,20,9766,205.0,0.75,3532603,689,RA de São José do Rio Preto,Demais municípios,4.4
+Itaberá,20,17966,111.0,0.69,3521705,696,RA de Itapeva,Demais municípios,4.6
+Piquete,20,12334,162.0,0.75,3538501,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.2
+Guaraci,20,10382,193.0,0.73,3517901,694,RA de Barretos,Demais municípios,4.3
+Cajobi,20,9056,221.0,0.73,3509304,694,RA de Barretos,Demais municípios,4.7
+Sarapuí,20,10463,191.0,0.7,3551108,685,RA de Sorocaba,RM de Sorocaba,4.4
+Roseira,20,10900,183.0,0.73,3544301,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.3
+Duartina,19,12332,154.0,0.74,3514502,688,RA de Bauru,Demais municípios,0.0
+Palestina,19,11481,165.0,0.73,3535002,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.7
+Junqueirópolis,19,20518,93.0,0.74,3526001,691,RA de Presidente Prudente,Demais municípios,5.0
+Chavantes,19,12163,156.0,0.72,3557204,692,RA de Marília,Demais municípios,0.0
+Parapuã,19,10537,180.0,0.73,3536000,692,RA de Marília,Demais municípios,4.1
+Canas,19,4964,383.0,0.7,3509957,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,0.0
+Pedregulho,19,15499,123.0,0.71,3537008,695,RA de Franca,Demais municípios,4.2
+Alambari,19,6227,305.0,0.71,3500758,685,RA de Sorocaba,RM de Sorocaba,4.6
+Salto Grande,19,9049,210.0,0.7,3545407,692,RA de Marília,Demais municípios,4.2
+Pongaí,18,3381,532.0,0.75,3540101,688,RA de Bauru,Demais municípios,4.4
+São José da Bela Vista,18,7554,238.0,0.69,3549508,695,RA de Franca,Demais municípios,0.0
+Luís Antônio,18,12312,146.0,0.73,3527603,687,RA de Ribeirão Preto,RM de Ribeirao Preto,3.8
+Lavrinhas,18,7206,250.0,0.72,3526605,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,3.7
+Itajobi,18,17204,105.0,0.73,3521903,689,RA de São José do Rio Preto,Demais municípios,0.0
+Pereiras,18,8791,205.0,0.73,3537503,685,RA de Sorocaba,Demais municípios,4.8
+Vista Alegre do Alto,18,8194,220.0,0.74,3556909,694,RA de Barretos,Demais municípios,5.0
+Tupi Paulista,18,15943,113.0,0.76,3555109,691,RA de Presidente Prudente,Demais municípios,4.8
+Analândia,18,4613,390.0,0.75,3502002,686,RA de Campinas,RM de Piracicaba,4.3
+Taiúva,17,6626,257.0,0.76,3553203,694,RA de Barretos,RM de Ribeirao Preto,5.5
+Dumont,17,9561,178.0,0.74,3514601,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.6
+Jaci,17,7736,220.0,0.72,3524501,689,RA de São José do Rio Preto,RM São José do Rio Preto,0.0
+Jambeiro,17,6480,262.0,0.75,3524907,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.7
+Poloni,17,5575,305.0,0.76,3539905,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.4
+Itatinga,17,19093,89.0,0.7,3523503,685,RA de Sorocaba,Demais municípios,4.6
+Guaimbê,16,5495,291.0,0.72,3517307,688,RA de Bauru,Demais municípios,4.2
+Santa Cruz das Palmeiras,16,28738,56.0,0.72,3546306,686,RA de Campinas,Demais municípios,4.1
+Cosmorama,16,8827,181.0,0.72,3512902,689,RA de São José do Rio Preto,Demais municípios,4.9
+Ipiguá,16,6938,231.0,0.73,3521150,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.5
+Tarumã,16,15012,107.0,0.75,3553955,692,RA de Marília,Demais municípios,4.6
+Pardinho,16,7248,221.0,0.72,3536109,685,RA de Sorocaba,Demais municípios,0.0
+Rosana,15,17204,87.0,0.76,3544251,691,RA de Presidente Prudente,Demais municípios,4.6
+Quatá,15,13166,114.0,0.73,3541703,692,RA de Marília,Demais municípios,4.6
+Sabino,15,5091,295.0,0.72,3544608,688,RA de Bauru,Demais municípios,3.5
+Divinolândia,15,11120,135.0,0.73,3513900,686,RA de Campinas,Demais municípios,5.0
+Palmeira d'Oeste,15,8841,170.0,0.75,3535200,689,RA de São José do Rio Preto,Demais municípios,5.0
+Guarantã,15,6421,234.0,0.71,3518107,688,RA de Bauru,Demais municípios,3.3
+Itaporanga,15,13998,107.0,0.71,3522802,696,RA de Itapeva,Demais municípios,4.6
+Bocaina,15,11261,133.0,0.74,3506805,688,RA de Bauru,Demais municípios,4.4
+Ribeirão Branco,15,18620,81.0,0.63,3543006,696,RA de Itapeva,Demais municípios,4.5
+Clementina,15,6951,216.0,0.72,3511904,690,RA de Araçatuba,Demais municípios,0.0
+Torrinha,15,9321,161.0,0.74,3554706,686,RA de Campinas,Demais municípios,4.3
+Mendonça,15,6278,239.0,0.74,3529500,689,RA de São José do Rio Preto,RM São José do Rio Preto,5.4
+Serra Azul,14,12858,109.0,0.68,3551405,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.1
+Rifaina,14,4100,341.0,0.74,3543600,695,RA de Franca,Demais municípios,3.9
+Lagoinha,14,5092,275.0,0.69,3526308,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.8
+São Sebastião da Grama,14,10296,136.0,0.7,3550803,686,RA de Campinas,Demais municípios,4.3
+Santo Antonio do Aracanguá,14,8395,167.0,0.0,3548054,690,RA de Araçatuba,Demais municípios,4.5
+Maracaí,13,12551,104.0,0.77,3528809,692,RA de Marília,Demais municípios,4.8
+Tuiuti,13,6819,191.0,0.72,3554953,686,RA de Campinas,Demais municípios,4.7
+Nova Aliança,13,6748,193.0,0.73,3532801,689,RA de São José do Rio Preto,RM São José do Rio Preto,0.0
+Guaraçaí,13,7320,178.0,0.71,3517802,690,RA de Araçatuba,Demais municípios,4.5
+Quadra,13,3416,381.0,0.67,3541653,685,RA de Sorocaba,Demais municípios,0.0
+Herculândia,13,9145,142.0,0.72,3519006,692,RA de Marília,Demais municípios,3.9
+Águas da Prata,12,7355,163.0,0.78,3500402,686,RA de Campinas,Demais municípios,4.6
+Presidente Bernardes,12,14510,83.0,0.75,3541208,691,RA de Presidente Prudente,Demais municípios,4.2
+Eldorado,12,12887,93.0,0.69,3514809,682,RA de Registro,Demais municípios,4.2
+Ubarana,12,5326,225.0,0.7,3555356,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.4
+Tarabaí,12,6490,185.0,0.72,3553906,691,RA de Presidente Prudente,Demais municípios,4.3
+Palmares Paulista,12,9516,126.0,0.72,3535101,689,RA de São José do Rio Preto,Demais municípios,4.6
+Pacaembu,11,14981,73.0,0.72,3534906,691,RA de Presidente Prudente,Demais municípios,3.9
+Sales,11,6504,169.0,0.75,3544806,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.8
+Tapiraí,11,8001,137.0,0.68,3553500,685,RA de Sorocaba,RM de Sorocaba,4.4
+Guzolândia,11,4189,263.0,0.69,3518909,690,RA de Araçatuba,Demais municípios,5.2
+Riolândia,11,10259,107.0,0.7,3544202,689,RA de São José do Rio Preto,Demais municípios,3.9
+Pedra Bela,11,6619,166.0,0.67,3536802,686,RA de Campinas,Demais municípios,4.8
+General Salgado,11,10285,107.0,0.74,3516903,690,RA de Araçatuba,Demais municípios,5.0
+Santa Isabel,11,53232,21.0,0.73,3546801,681,RM  de São Paulo,RM de Sao Paulo,4.8
+Uchôa,10,10458,96.0,0.0,3555604,689,RA de São José do Rio Preto,RM São José do Rio Preto,5.0
+Campina do Monte Alegre,10,5989,167.0,0.71,3509452,696,RA de Itapeva,Demais municípios,0.0
+Icém,10,7834,128.0,0.72,3519808,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.2
+Sud Mennucci,10,7321,137.0,0.74,3552304,690,RA de Araçatuba,Demais municípios,4.9
+Júlio Mesquita,10,4245,236.0,0.71,3525805,692,RA de Marília,Demais municípios,4.2
+Iepê,10,7594,132.0,0.73,3519907,691,RA de Presidente Prudente,Demais municípios,4.4
+Anhembi,10,5660,177.0,0.72,3502309,685,RA de Sorocaba,Demais municípios,4.3
+Ouroeste,10,10404,96.0,0.77,3534757,689,RA de São José do Rio Preto,Demais municípios,0.0
+Itirapuã,10,5745,174.0,0.7,3523701,695,RA de Franca,Demais municípios,4.0
+Águas de São Pedro,10,2774,360.0,0.85,3500600,686,RA de Campinas,RM de Piracicaba,4.9
+Paulo de Faria,9,7311,123.0,0.72,3536604,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.9
+Gavião Peixoto,9,4721,191.0,0.71,3516853,693,RA Central,Demais municípios,4.2
+Meridiano,9,4625,195.0,0.73,3529609,689,RA de São José do Rio Preto,Demais municípios,5.2
+Catiguá,9,6959,129.0,0.75,3511201,689,RA de São José do Rio Preto,Demais municípios,4.3
+Pratânia,9,5158,174.0,0.7,3541059,685,RA de Sorocaba,Demais municípios,4.4
+Iaras,9,8109,111.0,0.67,3519253,685,RA de Sorocaba,Demais municípios,4.1
+São Bento do Sapucaí,9,11737,77.0,0.72,3548609,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,5.0
+Monte Alegre do Sul,9,8739,103.0,0.75,3531209,686,RA de Campinas,Demais municípios,5.2
+Ibirarema,9,6314,143.0,0.7,3519501,692,RA de Marília,Demais municípios,0.0
+Barra do Chapéu,9,5162,174.0,0.66,3505351,696,RA de Itapeva,Demais municípios,4.8
+Taquarivaí,9,6988,129.0,0.67,3553856,696,RA de Itapeva,Demais municípios,4.4
+Narandiba,9,5830,154.0,0.71,3532207,691,RA de Presidente Prudente,Demais municípios,4.5
+Santo Antonio de Posse,9,23408,38.0,0.7,3548005,686,RA de Campinas,RM de Campinas,4.6
+Canitar,9,6444,140.0,0.68,3510153,692,RA de Marília,Demais municípios,4.1
+Três Fronteiras,9,6909,130.0,0.75,3554904,689,RA de São José do Rio Preto,Demais municípios,4.7
+Taiaçu,9,5642,160.0,0.71,3553104,694,RA de Barretos,Demais municípios,4.6
+Fernando Prestes,8,5973,134.0,0.75,3515608,693,RA Central,Demais municípios,5.1
+Bananal,8,9929,81.0,0.73,3504909,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,3.5
+Jeriquara,8,3909,205.0,0.7,3525409,695,RA de Franca,Demais municípios,4.3
+Dourado,8,8054,99.0,0.73,3514304,693,RA Central,Demais municípios,4.9
+Rafard,8,8964,89.0,0.74,3542107,686,RA de Campinas,RM de Piracicaba,4.9
+Indiaporã,8,4047,198.0,0.75,3520707,689,RA de São José do Rio Preto,Demais municípios,4.4
+Pontalinda,8,4104,195.0,0.7,3540259,689,RA de São José do Rio Preto,Demais municípios,4.7
+Sebastianópolis do Sul,8,3130,256.0,0.77,3551306,689,RA de São José do Rio Preto,Demais municípios,5.5
+Boracéia,7,4773,147.0,0.75,3507308,688,RA de Bauru,Demais municípios,0.0
+Américo de Campos,7,5874,119.0,0.74,3501806,689,RA de São José do Rio Preto,Demais municípios,4.1
+Echaporã,7,6181,113.0,0.74,3514700,692,RA de Marília,Demais municípios,0.0
+Ribeirão do Sul,7,4670,150.0,0.74,3543204,692,RA de Marília,Demais municípios,5.1
+Itobi,7,8072,87.0,0.71,3523800,686,RA de Campinas,Demais municípios,3.4
+Mombuca,7,3741,187.0,0.71,3530904,686,RA de Campinas,RM de Piracicaba,5.5
+Oriente,7,6069,115.0,0.77,3534104,692,RA de Marília,Demais municípios,3.6
+Natividade da Serra,7,6998,100.0,0.65,3532306,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.4
+Adolfo,7,4410,159.0,0.73,3500204,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.1
+Onda Verde,7,4813,145.0,0.73,3534005,689,RA de São José do Rio Preto,RM São José do Rio Preto,0.0
+Orindiúva,7,6035,116.0,0.76,3534203,689,RA de São José do Rio Preto,RM São José do Rio Preto,5.0
+Redenção da Serra,7,4536,154.0,0.65,3542305,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.3
+Salmourão,7,4791,146.0,0.71,3545100,691,RA de Presidente Prudente,Demais municípios,4.4
+Mira Estrela,7,3138,223.0,0.74,3530003,689,RA de São José do Rio Preto,Demais municípios,4.6
+Bilac,7,7307,96.0,0.76,3506409,690,RA de Araçatuba,Demais municípios,4.6
+Manduri,7,9925,71.0,0.73,3528601,685,RA de Sorocaba,Demais municípios,0.0
+Tapiratiba,7,11709,60.0,0.75,3553609,686,RA de Campinas,Demais municípios,3.9
+Luiziânia,6,4667,129.0,0.7,3527702,690,RA de Araçatuba,Demais municípios,4.9
+Planalto,6,4361,138.0,0.71,3539608,689,RA de São José do Rio Preto,RM São José do Rio Preto,3.6
+Lutécia,6,2655,226.0,0.72,3527900,692,RA de Marília,Demais municípios,5.1
+Suzanápolis,6,3402,176.0,0.69,3552551,690,RA de Araçatuba,Demais municípios,4.7
+Santana da Ponte Pensa,6,1671,359.0,0.77,3547205,689,RA de São José do Rio Preto,Demais municípios,4.3
+Paulicéia,6,8040,75.0,0.71,3536406,691,RA de Presidente Prudente,Demais municípios,3.9
+Elisiário,6,3130,192.0,0.74,3514924,689,RA de São José do Rio Preto,Demais municípios,5.0
+Indiana,6,5085,118.0,0.76,3520608,691,RA de Presidente Prudente,Demais municípios,4.3
+Paulistânia,6,2118,283.0,0.71,3536570,688,RA de Bauru,Demais municípios,5.1
+Motuca,6,3980,151.0,0.74,3532058,693,RA Central,Demais municípios,0.0
+Macaubal,5,7444,67.0,0.74,3528106,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.4
+Floreal,5,2707,185.0,0.74,3515905,689,RA de São José do Rio Preto,Demais municípios,5.1
+Parisi,5,2953,169.0,0.72,3536257,689,RA de São José do Rio Preto,Demais municípios,4.2
+Novais,5,4388,114.0,0.71,3533254,689,RA de São José do Rio Preto,Demais municípios,4.4
+Reginópolis,5,7701,65.0,0.72,3542503,688,RA de Bauru,Demais municípios,0.0
+Guarani d'Oeste,5,1963,255.0,0.73,3518008,689,RA de São José do Rio Preto,Demais municípios,0.0
+Coroados,5,5395,93.0,0.71,3512506,690,RA de Araçatuba,Demais municípios,4.2
+Ocauçu,5,4340,115.0,0.71,3533700,692,RA de Marília,Demais municípios,4.3
+Jaborandi,5,6174,81.0,0.71,3524204,694,RA de Barretos,Demais municípios,4.7
+Euclides da Cunha Paulista,5,7760,64.0,0.7,3515350,691,RA de Presidente Prudente,Demais municípios,4.4
+Avaí,5,4441,113.0,0.71,3504305,688,RA de Bauru,Demais municípios,3.8
+Santa Fé do Sul,5,35146,14.0,0.78,3546603,689,RA de São José do Rio Preto,Demais municípios,4.6
+Santa Adélia,5,13972,36.0,0.76,3545605,689,RA de São José do Rio Preto,Demais municípios,0.0
+Cândido Rodrigues,5,2916,171.0,0.78,3510104,693,RA Central,Demais municípios,4.1
+Aparecida d'Oeste,5,4038,124.0,0.72,3502606,689,RA de São José do Rio Preto,Demais municípios,4.1
+Borebi,5,2741,182.0,0.7,3507456,688,RA de Bauru,Demais municípios,0.0
+Gastão Vidigal,5,3152,159.0,0.72,3516804,690,RA de Araçatuba,Demais municípios,4.9
+Presidente Alves,5,3770,133.0,0.73,3541109,688,RA de Bauru,Demais municípios,0.0
+Irapuru,4,7011,57.0,0.71,3521606,691,RA de Presidente Prudente,Demais municípios,4.7
+Pedranópolis,4,2803,143.0,0.74,3536901,689,RA de São José do Rio Preto,Demais municípios,5.2
+Braúna,4,5361,75.0,0.73,3507704,690,RA de Araçatuba,Demais municípios,4.3
+Iporanga,4,4028,99.0,0.7,3521200,696,RA de Itapeva,Demais municípios,3.8
+Mirassolândia,4,4687,85.0,0.73,3530409,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.5
+Santa Cruz do Rio Pardo,4,46539,9.0,0.76,3546405,692,RA de Marília,Demais municípios,4.7
+Ribeirão Corrente,4,4618,87.0,0.71,3543105,695,RA de Franca,Demais municípios,4.4
+Nipoã,4,4761,84.0,0.71,3532702,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.4
+Buritizal,4,4359,92.0,0.73,3508207,695,RA de Franca,Demais municípios,4.4
+Álvares Florence,4,3909,102.0,0.72,3501202,689,RA de São José do Rio Preto,Demais municípios,4.7
+Populina,4,4116,97.0,0.71,3540408,689,RA de São José do Rio Preto,Demais municípios,5.6
+Coronel Macedo,4,4202,95.0,0.69,3512605,696,RA de Itapeva,Demais municípios,4.2
+Trabiju,4,1693,236.0,0.72,3554755,693,RA Central,Demais municípios,3.5
+Ubirajara,4,5177,77.0,0.72,3555505,688,RA de Bauru,Demais municípios,0.0
+Taquaral,4,2607,153.0,0.75,3553658,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.5
+Lupércio,4,3935,102.0,0.72,3527801,692,RA de Marília,Demais municípios,4.4
+Marinópolis,4,1834,218.0,0.73,3529104,689,RA de São José do Rio Preto,Demais municípios,5.3
+Areiópolis,4,10086,40.0,0.69,3503604,685,RA de Sorocaba,Demais municípios,4.3
+Magda,4,3154,127.0,0.75,3528304,689,RA de São José do Rio Preto,Demais municípios,4.9
+Macedônia,4,3987,100.0,0.74,3528205,689,RA de São José do Rio Preto,Demais municípios,5.0
+Silveiras,3,6213,48.0,0.67,3552007,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.7
+Turmalina,3,1640,183.0,0.73,3555307,689,RA de São José do Rio Preto,Demais municípios,4.5
+Mesópolis,3,1947,154.0,0.72,3529658,689,RA de São José do Rio Preto,Demais municípios,4.7
+Arandu,3,6935,43.0,0.68,3503109,696,RA de Itapeva,Demais municípios,4.0
+Dolcinópolis,3,2215,135.0,0.74,3514205,689,RA de São José do Rio Preto,Demais municípios,5.1
+Brejo Alegre,3,2563,117.0,0.71,3507753,690,RA de Araçatuba,Demais municípios,0.0
+Riversul,3,5546,54.0,0.66,3543501,696,RA de Itapeva,Demais municípios,4.8
+Lourdes,3,1916,157.0,0.74,3527256,690,RA de Araçatuba,Demais municípios,0.0
+Nova Campina,3,8484,35.0,0.65,3532827,696,RA de Itapeva,Demais municípios,4.3
+Lindóia,3,17937,17.0,0.74,3527009,686,RA de Campinas,Demais municípios,5.1
+Bento de Abreu,3,2598,115.0,0.74,3506201,690,RA de Araçatuba,Demais municípios,4.4
+Jumirim,3,3072,98.0,0.74,3525854,685,RA de Sorocaba,RM de Sorocaba,4.9
+São João de Iracema,3,1849,162.0,0.74,3549250,690,RA de Araçatuba,Demais municípios,4.2
+Quintana,3,7127,42.0,0.73,3542008,692,RA de Marília,Demais municípios,4.4
+Santo Anastácio,3,17738,17.0,0.75,3547700,691,RA de Presidente Prudente,Demais municípios,3.8
+Sarutaiá,3,3711,81.0,0.68,3551207,696,RA de Itapeva,Demais municípios,4.2
+Paranapuã,3,4044,74.0,0.73,3535903,689,RA de São José do Rio Preto,Demais municípios,4.2
+Marabá Paulista,3,4549,66.0,0.67,3528700,691,RA de Presidente Prudente,Demais municípios,4.4
+Tejupá,3,4047,74.0,0.66,3554201,696,RA de Itapeva,Demais municípios,4.1
+Itapura,3,3939,76.0,0.72,3523008,690,RA de Araçatuba,Demais municípios,4.5
+Nova Independência,3,4718,64.0,0.73,3533205,690,RA de Araçatuba,Demais municípios,0.0
+Santa Rosa do Viterbo,3,23310,13.0,0.77,3547601,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.9
+Flórida Paulista,3,12926,23.0,0.71,3516002,691,RA de Presidente Prudente,Demais municípios,3.8
+Murutinga do Sul,3,3695,81.0,0.72,3532108,690,RA de Araçatuba,Demais municípios,4.2
+São Pedro do Turvo,3,7213,42.0,0.7,3550506,692,RA de Marília,Demais municípios,0.0
+Bom Sucesso de Itararé,3,3549,85.0,0.66,3507159,696,RA de Itapeva,Demais municípios,4.4
+Barbosa,3,5544,54.0,0.69,3505104,690,RA de Araçatuba,Demais municípios,4.1
+Queiroz,3,3305,91.0,0.71,3541802,692,RA de Marília,Demais municípios,0.0
+Neves Paulista,3,9740,31.0,0.75,3532504,689,RA de São José do Rio Preto,RM São José do Rio Preto,0.0
+Lavínia,3,9747,31.0,0.72,3526506,690,RA de Araçatuba,Demais municípios,5.7
+Ribeira,2,3103,64.0,0.69,3542800,696,RA de Itapeva,Demais municípios,4.3
+Campos Novos Paulista,2,4890,41.0,0.7,3509809,692,RA de Marília,Demais municípios,4.8
+Anhumas,2,4031,50.0,0.74,3502408,691,RA de Presidente Prudente,Demais municípios,4.4
+Fernão,2,1663,120.0,0.7,3515657,692,RA de Marília,Demais municípios,5.5
+Estrela do Norte,2,2693,74.0,0.74,3515301,691,RA de Presidente Prudente,Demais municípios,4.5
+São João das Duas Pontes,2,2574,78.0,0.72,3549201,689,RA de São José do Rio Preto,Demais municípios,0.0
+Alto Alegre,2,3799,53.0,0.7,3501103,690,RA de Araçatuba,Demais municípios,4.0
+Ouro Verde,2,7762,26.0,0.69,3534807,691,RA de Presidente Prudente,Demais municípios,4.7
+Marapoama,2,3334,60.0,0.75,3528858,689,RA de São José do Rio Preto,Demais municípios,4.2
+Timburi,2,2450,82.0,0.71,3554607,692,RA de Marília,Demais municípios,4.6
+Itapirapuã Paulista,2,4338,46.0,0.66,3522653,696,RA de Itapeva,Demais municípios,4.4
+Flora Rica,2,1463,137.0,0.72,3515806,691,RA de Presidente Prudente,Demais municípios,4.4
+Santa Maria da Serra,2,5205,38.0,0.68,3547007,686,RA de Campinas,RM de Piracicaba,4.5
+Cássia dos Coqueiros,2,2797,72.0,0.73,3510906,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.9
+Sandovalina,2,3627,55.0,0.7,3545506,691,RA de Presidente Prudente,Demais municípios,4.3
+Álvaro de Carvalho,2,4819,42.0,0.68,3501400,692,RA de Marília,Demais municípios,0.0
+Santa Branca,2,13956,14.0,0.73,3546009,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,3.9
+Santo Antonio do Jardim,2,6132,33.0,0.71,3548104,686,RA de Campinas,Demais municípios,5.0
+Itaju,2,3650,55.0,0.7,3522000,688,RA de Bauru,Demais municípios,4.5
+São José do Barreiro,2,3836,52.0,0.68,3549607,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.0
+Piacatu,2,5530,36.0,0.73,3537701,690,RA de Araçatuba,Demais municípios,0.0
+Nova Luzitânia,2,2771,72.0,0.74,3533304,690,RA de Araçatuba,Demais municípios,5.0
+Dirce Reis,2,1610,124.0,0.74,3513850,689,RA de São José do Rio Preto,Demais municípios,4.9
+Irapuã,2,6830,29.0,0.71,3521507,689,RA de São José do Rio Preto,RM São José do Rio Preto,4.6
+Areias,2,3556,56.0,0.69,3503505,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,4.4
+Santa Lucia,2,7049,28.0,0.73,3546900,693,RA Central,Demais municípios,0.0
+Nantes,2,2646,76.0,0.71,3532157,691,RA de Presidente Prudente,Demais municípios,0.0
+Caiuá,2,5492,36.0,0.69,3509106,691,RA de Presidente Prudente,Demais municípios,4.6
+Mariápolis,2,3483,57.0,0.71,3528908,691,RA de Presidente Prudente,Demais municípios,0.0
+Caiabu,2,3675,54.0,0.72,3508900,691,RA de Presidente Prudente,Demais municípios,4.4
+Itaóca,2,3437,58.0,0.68,3522158,696,RA de Itapeva,Demais municípios,4.4
+Turiúba,1,1806,55.0,0.75,3555208,690,RA de Araçatuba,Demais municípios,4.9
+Balbinos,1,3904,26.0,0.66,3504701,688,RA de Bauru,Demais municípios,5.0
+Monções,1,1908,52.0,0.77,3531001,689,RA de São José do Rio Preto,Demais municípios,4.8
+Santa Salete,1,1651,61.0,0.77,3547650,689,RA de São José do Rio Preto,Demais municípios,5.7
+Santópolis do Aguapeí,1,3868,26.0,0.74,3548401,690,RA de Araçatuba,Demais municípios,4.5
+Gabriel Monteiro,1,2764,36.0,0.76,3516507,690,RA de Araçatuba,Demais municípios,0.0
+Borá,1,902,111.0,0.74,3507209,692,RA de Marília,Demais municípios,0.0
+São Francisco,1,2582,39.0,0.72,3549003,689,RA de São José do Rio Preto,Demais municípios,5.2
+Nova Canaã Paulista,1,2019,50.0,0.71,3532843,689,RA de São José do Rio Preto,Demais municípios,4.5
+Emilianópolis,1,3010,33.0,0.72,3515129,691,RA de Presidente Prudente,Demais municípios,0.0
+Cabrália Paulista,1,4282,23.0,0.69,3508306,688,RA de Bauru,Demais municípios,4.6
+Sagres,1,2473,40.0,0.73,3544707,691,RA de Presidente Prudente,Demais municípios,3.7
+Óleo,1,2490,40.0,0.73,3533809,692,RA de Marília,Demais municípios,4.8
+Nova Castilho,1,1052,95.0,0.75,3532868,690,RA de Araçatuba,Demais municípios,0.0
+Embaúba,1,2312,43.0,0.73,3514957,694,RA de Barretos,Demais municípios,4.6
+Rubinéia,1,3887,26.0,0.75,3544509,689,RA de São José do Rio Preto,Demais municípios,5.0
+Santa Cruz da Conceição,1,4288,23.0,0.79,3546207,686,RA de Campinas,RM de Piracicaba,3.9
+Arapeí,1,2306,43.0,0.68,3503158,684,RA de São José dos Campos,RM do Vale do Paraiba e Litoral Norte,2.6
+Pontes Gestal,1,2375,42.0,0.73,3540309,689,RA de São José do Rio Preto,Demais municípios,3.9
+Taciba,1,6317,16.0,0.72,3552908,691,RA de Presidente Prudente,Demais municípios,5.0
+Santo Antonio da Alegria,1,6805,15.0,0.7,3547908,687,RA de Ribeirão Preto,RM de Ribeirao Preto,4.2
+Piquerobi,1,3247,31.0,0.71,3538303,691,RA de Presidente Prudente,Demais municípios,4.7
+João Ramalho,1,4365,23.0,0.74,3525607,692,RA de Marília,Demais municípios,4.6
+Alvinlândia,1,2862,35.0,0.72,3501509,692,RA de Marília,Demais municípios,0.0
+Zacarias,1,2714,37.0,0.72,3557154,689,RA de São José do Rio Preto,RM São José do Rio Preto,0.0
+Oscar Bressane,1,2447,41.0,0.74,3534500,692,RA de Marília,Demais municípios,4.9
+Ribeirão Grande,1,7422,13.0,0.7,3543253,696,RA de Itapeva,Demais municípios,4.5
+Uru,1,1394,72.0,0.71,3555901,688,RA de Bauru,Demais municípios,0.0
+Platina,1,3009,33.0,0.71,3539707,692,RA de Marília,Demais municípios,0.0
+Pedrinhas Paulista,1,2791,36.0,0.77,3537156,692,RA de Marília,Demais municípios,4.6
+São João do Pau d'Alho,1,2248,44.0,0.75,3549300,691,RA de Presidente Prudente,Demais municípios,5.0
+Pracinha,1,2565,39.0,0.69,3540853,691,RA de Presidente Prudente,Demais municípios,0.0
